@@ -1,0 +1,15 @@
+{
+  "name": "confluence-groupchecker",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "body-parser": "1.14.1",
+    "express": "4.13.3",
+    "mysql": "2.9.0",
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {}
+}
